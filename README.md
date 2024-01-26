@@ -1,3 +1,7 @@
+![image](https://github.com/kulhara-ankit/text-editor-reactjs/assets/146313680/80766386-76b8-4ac1-99a2-47995280de93)
+
+
+
 The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
 
 ### Refer to the image below:
